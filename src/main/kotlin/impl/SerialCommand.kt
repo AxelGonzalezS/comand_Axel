@@ -1,0 +1,4 @@
+package impl
+
+class SerialCommand {
+}
